@@ -1,4 +1,4 @@
-# Windows 10X SunVallify - A Windows 11 24H2 Transformation Pack
+# Windows Valley10X - A Windows 11 24H2 Transformation Pack
 
 This is a pack that makes Windows 11 Version 24H2 into a replica of 10X if the features from 10X were brought to Desktop Windows.
 
