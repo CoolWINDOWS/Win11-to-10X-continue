@@ -1,0 +1,18 @@
+// ==WindhawkMod==
+// @id              stupid-win11-taskmgr
+// @name            I hate Windows 11 Task Manager
+// @version         0.1
+// @include         taskmgr.exe
+// ==/WindhawkMod==
+
+
+BOOL Wh_ModInit() {
+    Wh_Log(L"Init");
+
+wcscpy(GetCommandLine(), L" -d");
+    return TRUE;
+}
+
+void Wh_ModUninit() {
+    Wh_Log(L"Uninit");
+}
