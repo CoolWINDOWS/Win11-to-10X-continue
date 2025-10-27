@@ -15,3 +15,4 @@ Thanks for viewing this, this was my project to continue Win11-Valley10x project
 
 
 Preview:
+Screenshot 2025-10-27 212228.png
