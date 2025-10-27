@@ -1,21 +1,17 @@
-# Windows Valley10X - A Windows 11 24H2 Transformation Pack
+Windows 10X skin for windows 11!
 
-This is a pack that makes Windows 11 Version 24H2 into a replica of 10X if the features from 10X were brought to Desktop Windows.
+Thanks for viewing this, this was my project to continue Win11-Valley10x project, it was edit a lot by myself, so i fork it, because i still use some code and modify some, so please don't download from Main, because that's original code, please download from release, the installation step here:
+step 1: extract to a folder
+step 2: install windhawk and install all mods:
+- start menu styler
+- taskbar clock customization
+- taskbar styler
+- taskbar height and size
+step 3: copy all code to correct place of mods
+step 4: to the action center logo works, install the font inside the zip
+step 5: apply desktop walpaper
+step 6: install open shell from here:https://open-shell.github.io/Open-Shell-Menu/ and apply the custom orb
+step 7: change the open shell control settings to default windows start menu instead custom open shell one
 
-> [!WARNING]
-> **THIS PROJECT IS IN EARLY DEVELOPMENT**
->
-> You may encounter issues, unfinished stuff, glitches, the works. This pack is released with no warranty.
->
->
-> **Knowing this, You might use this at your own risk.**
->
 
-Credits:
-
-- Microsoft - Resources
-- ImSwordQueen & Microsoft - Windows 10 Theme port for Windows 11 22H2/23H2 Port (Works on 24H2 as well)
-- ImSwordQueen & Microsoft - Revert Windows 10 Branding in Windows 11 Settings (While using Microsoft resources)
-- overpk - [Windows 10X Start button replica](https://www.deviantart.com/overpk/art/Windows-10X-Start-Orb-867245724)
-- niivu - Windows 10 Insider Preview 21390 Icons (Can't find the link :/)
-- Safari (In the rectify11 discord) - Windows 10X Taskbar/Start Menu/Search/Clock Customizer settings. (Tweaked a bit to work with 24H2 + Other tweaks.)
+Preview:
