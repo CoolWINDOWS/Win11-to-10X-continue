@@ -15,3 +15,5 @@ Thanks for viewing this, this was my project to continue Win11-Valley10x project
 
 
 Preview:
+
+<https://raw.githubusercontent.com/CoolWINDOWS/Win11-to-10X-continue/refs/heads/main/Screenshot%202025-10-27%20212228.png>
