@@ -15,6 +15,13 @@ Thanks for viewing this, this was my project to continue Win11-Valley10x project
 
 + step 7: change the open shell control settings to default windows start menu instead custom open shell one
 
+Requirement(IMPOTANT):
+* Old Classic windows 11 start menu(if you had the new one from win11 25h2, download vivetool and run this command vivetool /disable /id:47205210 source**:https://onlinecomputertips.com/support-categories/windows/remove-windows-11-25h2-start-menu/)**
+* Enable Show more suggestion for the start menu, don't worry, it won't make the start menu pinned section smaller
+* Windhawk installed if not download from https://windhawk.net/
+* In windhawk install following mods: Windows 11 Start Menu Styler, Windows 11 Taskbar Styler, Taskbar height and icon size, and Taskbar Clock Customization
+
+
 Preview:
 
 Start menu
