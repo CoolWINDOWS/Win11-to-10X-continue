@@ -17,7 +17,9 @@ Thanks for viewing this, this was my project to continue Win11-Valley10x project
 
 Preview:
 
-Start Desktop
+Start menu
 
 <img src="https://raw.githubusercontent.com/CoolWINDOWS/Win11-to-10X-continue/refs/heads/main/Windows%2010x%20Start.png" alt="Screenshot" width="300">
 
+Task View
+<img src="https://raw.githubusercontent.com/CoolWINDOWS/Win11-to-10X-continue/refs/heads/main/%7BBA96A6BC-4B9B-4204-9F9F-8024D899CD1E%7D.png" alt="Screenshot" width="300">
