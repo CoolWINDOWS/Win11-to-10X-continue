@@ -19,3 +19,5 @@ Preview:
 
 Start Desktop
 
+<img src="https://raw.githubusercontent.com/CoolWINDOWS/Win11-to-10X-continue/refs/heads/main/Windows%2010x%20Start.png" alt="Screenshot" width="300">
+
